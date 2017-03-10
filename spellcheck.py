@@ -1,6 +1,6 @@
-import sys;
-var=1;
-global check_word;
+import sys
+var=1
+global check_word
 def listtostring(vlist):
    str1=', '.join(vlist);
    str1=str1.replace(',','');
